@@ -4,11 +4,11 @@ date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
 
-[Prezentare Laboratoar](prezentare_02.pdf)
 
-[Prezentarea Curs si informatii utile](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#week2)
 
 [Laboratoar CSS](https://profs.info.uaic.ro/~busaco/teach/labs/css/)
+
+[Prezentarea Curs si informatii utile](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#week2)
 
 ### Informatii Utile
 
@@ -16,6 +16,9 @@ Tools:
 
 * [JSFiddle](https://jsfiddle.net/)
 * [VisualStudioCode](https://code.visualstudio.com/)
+* [HTML Validator](https://validator.w3.org/)
+* [CSS Validator](https://jigsaw.w3.org/css-validator/)
+*
 
 Documentatie:
 
@@ -27,6 +30,9 @@ Documentatie:
 * [CSS @ DevDocs](https://devdocs.io/css/)
 
 Exercitii de antrenament:
+
+* [CSS Exercitii](https://www.w3schools.com/css/exercise.asp)
+* [CSS Diner](https://flukeout.github.io/)
 
 
 ### Exercitii
@@ -64,5 +70,4 @@ Dimensiuni ecran:
 ![Exemplu Gif](04_responsive.gif)
 
 [Rezolvare]()
-
 
