@@ -5,7 +5,6 @@ draft: false
 ---
 
 
-
 [Laboratoar CSS (media query)](https://profs.info.uaic.ro/~busaco/teach/labs/css/)
 [Laboratoar Responsive Design](https://www.slideshare.net/busaco/design-web-responsiv)
 [Laborator HTTP](https://profs.info.uaic.ro/~andrei.panu/lectures/EN_web02WebProgramming-HTTP-CGI.pdf)
