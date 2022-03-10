@@ -41,20 +41,20 @@ Replicati urmatoarele imagini folosing HTML si CSS
 
 #### 1. BoxModel
 ![Exemplu CSS pentru containere](01_containere.png)
-[Rezolvare]()
+[Rezolvare](https://jsfiddle.net/StefanG/f25a76z9/)
 
 #### 2. Selectia elementelor
 
 ![Tabel in HTML](02_selectors.png)
-[Rezolvare]()
+[Rezolvare](https://jsfiddle.net/StefanG/4fvLyd9p/)
 
 #### 3. Sah
 Aici puteti tabele sau div-uri pentru rezolvare
 ![Tabla de sah](03_sah.png)
 
-[Rezolvare folosind tabele]()
+[Rezolvare folosind tabele](https://jsfiddle.net/StefanG/Lrywe3vo/)
 
-[Rezolvare folosind div]()
+[Rezolvare folosind div](https://jsfiddle.net/StefanG/3609rpvc/)
 
 #### 4. Design Responsive
 
