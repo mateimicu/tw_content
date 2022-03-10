@@ -1,13 +1,14 @@
 ---
-title: "03 - CSS, Responsive Design, Animations, HTTP and Web Server"
+title: "03 - CSS, Responsive Design, Animations, HTTP"
 date: 2022-03-10T21:46:18+02:00
 draft: false
 ---
 
 
 
-[Laboratoar CSS (media querys)](https://profs.info.uaic.ro/~busaco/teach/labs/css/)
+[Laboratoar CSS (media query)](https://profs.info.uaic.ro/~busaco/teach/labs/css/)
 [Laboratoar Responsive Design](https://www.slideshare.net/busaco/design-web-responsiv)
+[Laborator HTTP](https://profs.info.uaic.ro/~andrei.panu/lectures/EN_web02WebProgramming-HTTP-CGI.pdf)
 
 [Prezentarea Curs si informatii utile](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#week3)
 
