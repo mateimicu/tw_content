@@ -6,7 +6,9 @@ draft: false
 
 
 [Laboratoar CSS (media query)](https://profs.info.uaic.ro/~busaco/teach/labs/css/)
+
 [Laboratoar Responsive Design](https://www.slideshare.net/busaco/design-web-responsiv)
+
 [Laborator HTTP](https://profs.info.uaic.ro/~andrei.panu/lectures/EN_web02WebProgramming-HTTP-CGI.pdf)
 
 [Prezentarea Curs si informatii utile](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#week3)
@@ -41,8 +43,13 @@ Documentatie:
 
 Exercitii de antrenament:
 
-* [FLEXBOX FROGGY](https://flexboxfroggy.com/)
-* [GRID GARDEN](https://cssgridgarden.com/)
+* [MDN - Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox_skills)
 
 ### Exercitii
 
+1. Replicati urmatoarele elemente:
+![Keyframe](./01_animationhs.gif)
+
+2. [FLEXBOX FROGGY](https://flexboxfroggy.com/)
+
+3. [GRID GARDEN](https://cssgridgarden.com/)
